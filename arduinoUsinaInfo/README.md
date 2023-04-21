@@ -3,7 +3,7 @@
 - Basicamente sobre as bibliotecas estou utilizando a do streamlit para a aplicação e 2 gráficos, o pandas e  o ploty para os 4 gráficos necessários
 
 ## Arquivo
-- O arquivo de script da ac3 está no path: ac3/arduinoUsinaInfo/scripts/ac3.py
+- O arquivo de script da ac3 está no path: ./arduinoUsinaInfo/scripts/ac3.py
 
 ## Aplicação
 - A variavel "data" le a base de dados tratada
